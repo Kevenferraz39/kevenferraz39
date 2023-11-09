@@ -6,9 +6,6 @@
 - 📚 Sou estudante de desenvolvimento de sistemas na Etec
 - 📨 contatei-me pelo E-mail : kevenferraz39@gmail.com
 
-![Top Language](https://img.shields.io/github/languages/top/kevenferraz39/kevenferraz39)
-
-https://img.shields.io/github/languages/top/kevenferraz39/kevenferraz39
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
