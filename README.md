@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=FDFDFDA9&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Keven;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Sou+desenvolvedor+Front-end;%F0%9F%92%BB+Estou+estudando+a+area+do+back-end;%F0%9F%93%9A+Sou+tecnico+em+de+desenvolvimento+de+sistemas+pela+Etec;%F0%9F%93%A8+Contate-me+pelo+E-mail%3A+kevenferraz39%40gmail.com" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=CFCFCF&multiline=true&random=false&width=450&height=190&lines=%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82+Ol%C3%A1%2C+meu+nome+%C3%A9+Keven;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Sou+desenvolvedor+Front-end;%F0%9F%92%BB++Estudando+a+%C3%A1rea+do+Back-end;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Sou+tecnico+em+Desenvolvimento+de+Sistemas+pela+ETEC;Contate-me+pelo+E-mail%3A+kevenferraz39%40gmail.com)](https://git.io/typing-svg)
 #
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="35"/>
