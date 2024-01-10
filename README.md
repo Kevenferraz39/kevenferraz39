@@ -12,7 +12,7 @@
   <img align="center" alt="node-js" height="40" width="40" src="node-js-svgrepo-com.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="35"/> 
-  <img align ="center" alt="Ruby" src="https://raw.githubusercontent.com/devicons/master/icons/ruby/ruby-original.svg">
+  
 </div>
 <br>
  <div align="center">
