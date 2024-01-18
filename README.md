@@ -1,7 +1,28 @@
+# Perfil de Keven Ferraz de Almeida
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=CFCFCF&multiline=true&random=false&width=450&height=190&lines=%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82+Ol%C3%A1%2C+meu+nome+%C3%A9+Keven;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Sou+desenvolvedor+Front-end;%F0%9F%92%BB++Estudando+a+%C3%A1rea+do+Back-end;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Sou+tecnico+em+Desenvolvimento+de+Sistemas+pela+ETEC;Contate-me+pelo+E-mail%3A+kevenferraz39%40gmail.com)](https://git.io/typing-svg)
+## Olá, Sejam Bem-Vindos ao Meu Perfil! 👋
+
+### Sobre Mim
+Me chamo Keven Ferraz de Almeida, e sou um entusiasta da programação e desenvolvimento web. Atualmente, atuo como Dev Front-End, mas estou em constante evolução para me tornar um profissional Dev Full Stack.
+
+### Formação Acadêmica e Profissional
+- 🎓 Curso Técnico: Desenvolvimento de Sistemas
+- 📚 Atualmente cursando: Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul
+
+### Objetivos
+- 🚀 Meu principal objetivo é aprimorar minhas habilidades como desenvolvedor web e alcançar a posição de Dev Full Stack.
+- 📖 Estou sempre em busca de novos conhecimentos e tecnologias para estar atualizado no dinâmico mundo do desenvolvimento web.
+
+### Experiência e Áreas de Interesse
+- 💻 Experiência em desenvolvimento Front-End, com foco em criar interfaces responsivas e intuitivas para a web.
+- 🔧 Interessado em explorar e aprofundar conhecimentos em tecnologias Back-End para o desenvolvimento web.
+- 🌐 Apaixonado por criar soluções inovadoras e funcionais que contribuam para uma melhor experiência do usuário na web.
+
+### Vamos Conectar!
+Fique à vontade para entrar em contato, trocar experiências ou discutir colaborações. Estou sempre aberto a novas oportunidades e desafios relacionados ao desenvolvimento web. Juntos, podemos construir coisas incríveis! 😊
+
+
 #
-
 <br>
  <div align="center">
 
@@ -26,7 +47,7 @@
 </div>
 <br>
 <div align="center"> 
-   <a href="https://instagram.com/kevenferraz39" target="_blank">
+   <a href="[https://instagram.com/kevenferraz39](https://www.instagram.com/kevenferraz39?igsh=M3d0eXB0cDl0dzZw&utm_source=qr)" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>
    <a href = "kevenferraz39@gmail.com">
