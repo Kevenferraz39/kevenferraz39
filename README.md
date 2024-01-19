@@ -23,6 +23,8 @@ Fique à vontade para entrar em contato, trocar experiências ou discutir colabo
 
 
 #
+
+
 <br>
  <div align="center">
 
@@ -57,4 +59,7 @@ Fique à vontade para entrar em contato, trocar experiências ou discutir colabo
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a> 
 </div>
-
+<br>
+<p align="center"> 
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+  <img src="https://profile-counter.glitch.me/kevenferraz39/count.svg"/> 
