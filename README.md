@@ -29,8 +29,8 @@ Fique à vontade para entrar em contato, trocar experiências ou discutir colabo
  <div align="center">
 
   <a href="[https://github.com/kevenferraz39](https://github.com/kevenferraz39)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevenferraz39&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenferraz39&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevenferraz39&show_icons=true&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenferraz39&layout=compact&langs_count=16&theme=dracula"/>
     <br>
   <div align="center" style="display: inline_block"><br>
     <img align="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="35"/>
