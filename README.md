@@ -62,8 +62,4 @@ Fique à vontade para entrar em contato, trocar experiências ou discutir colabo
 <br>
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://profile-counter.glitch.me/kevenferraz39/count.svg"/> 
- 
-![Snake animation](https://github.com/kevenferraz39/kevenferraz39/blob/output/github-contribuition-grid-snake.svg)
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?usename=kevenferraz39&repo=kevenferraz39&theme=react)](https://github.com/kevenferraz39/kevenferraz39)
+  <img src="https://profile-counter.glitch.me/kevenferraz39/count.svg"/>
