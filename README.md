@@ -3,11 +3,11 @@
 ## Olá, Sejam Bem-Vindos ao Meu Perfil! 👋
 
 ### Sobre Mim
-Me chamo Keven Ferraz de Almeida, e sou um entusiasta da programação e desenvolvimento web. Atualmente, atuo como Dev Front-End, mas estou em constante evolução para me tornar um profissional Dev Full Stack.
+Me chamo Keven Ferraz de Almeida, e sou um entusiasta da programação e desenvolvimento web. Atualmente, atuo como Dev Front-End, mas estou em constante evolução para me tornar Dev Full Stack.
 
 ### Formação Acadêmica e Profissional
 - 🎓 Curso Técnico: Desenvolvimento de Sistemas
-- 📚 Atualmente cursando: Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul
+- 📚 Atualmente cursando: Análise e Desenvolvimento de Sistemas 
 
 ### Objetivos
 - 🚀 Meu principal objetivo é aprimorar minhas habilidades como desenvolvedor web e alcançar a posição de Dev Full Stack.
