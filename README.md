@@ -24,14 +24,8 @@ Fique à vontade para entrar em contato, trocar experiências ou discutir colabo
 
 #
 
+<h3 align="center">Soft skills!</h3>
 
-<br>
- <div align="center">
-
-  <a href="[https://github.com/kevenferraz39](https://github.com/kevenferraz39)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevenferraz39&show_icons=true&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenferraz39&layout=compact&langs_count=16&theme=dracula"/>
-    <br>
   <div align="center" style="display: inline_block"><br>
     <img align="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="35"/>
     <img align="center" alt="bootsrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="35"/> 
@@ -44,7 +38,24 @@ Fique à vontade para entrar em contato, trocar experiências ou discutir colabo
     <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
     <img align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="35"/> 
-</div>
+</div><br>
+ <div align="center">
+
+<a href="https://github.com/kevenferraz39"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevenferraz39&show_icons=true&theme=dracula" style="border: 0;"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenferraz39&layout=compact&langs_count=16&theme=dracula" style="border: 0;"/>
+</a>
+
+
+   <div align="center">
+  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevenferraz39&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=720)](https://git.io/streak-stats)
+
+   </div>
+    <br>
+   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevenferraz39&bg_color=0d1117&color=6dbeff&line=ee6b92&point=6dc0dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   <br>
    
 </div>
 <br>
@@ -60,6 +71,3 @@ Fique à vontade para entrar em contato, trocar experiências ou discutir colabo
    </a> 
 </div>
 <br>
-<p align="center"> 
- 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://profile-counter.glitch.me/kevenferraz39/count.svg"/>
