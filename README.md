@@ -42,19 +42,18 @@ Fique à vontade para entrar em contato, trocar experiências ou discutir colabo
  <div align="center">
 
 <a href="https://github.com/kevenferraz39"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevenferraz39&show_icons=true&theme=dracula" style="border: 0;"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenferraz39&layout=compact&langs_count=16&theme=dracula" style="border: 0;"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevenferraz39&show_icons=true&theme=react"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenferraz39&layout=compact&langs_count=16&theme=react"/>
 </a>
 
 
    <div align="center">
-  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevenferraz39&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=720)](https://git.io/streak-stats)
-
+     
+[![GitHub Streak](https://streak-stats.demolab.com?user=kevenferraz39&theme=react&hide_border=false&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=720)](https://git.io/streak-stats)
    </div>
     <br>
    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevenferraz39&bg_color=0d1117&color=6dbeff&line=ee6b92&point=6dc0dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevenferraz39&bg_color=0d1117&color=05c1ff&line=6dc0dd&point=5da8f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    <br>
    
 </div>
